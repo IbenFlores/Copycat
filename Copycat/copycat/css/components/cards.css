@@ -1,0 +1,41 @@
+.cards {
+    height: 1000px;
+    margin: 20px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 300px;
+    width: 200px;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+.card img {
+    object-fit: cover;
+    height: 250px;
+    width: 200px;
+}
+
+.date {
+    color: lightgray;
+}
+
+.header {
+    color: #2f323a;
+    font-size: 15px;
+}
+
+.description {
+    color: #bbc5aa;
+    font-size: 12px;
+}
+
+.fa-chevron-right {
+    color: #a72608;
+}

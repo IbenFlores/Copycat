@@ -1,0 +1,12 @@
+.navbar {
+    font-size: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+    margin: 20px;
+}
+
+.navbar i {
+    font-size: 20px;
+    margin-top: 12px;
+}
